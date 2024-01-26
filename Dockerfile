@@ -16,6 +16,9 @@ COPY ./pb_migrations /pb/pb_migrations
 # Uncomment to Copy the Local pb_hooks dir into the image
 COPY ./pb_hooks /pb/pb_hooks
 
+# Uncomment to Copy the Local pb_public dir into the image
+COPY ./pb_public /pb/pb_public
+
 EXPOSE 8080
 
 # start PocketBase
