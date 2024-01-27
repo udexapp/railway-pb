@@ -1,4 +1,4 @@
-# UDEX Pocketbase Backend Template
+# UDEX Pocketbase Backend
 
 ## Instructions
 1. Create a new Repository based on this **pocketbase-template**
