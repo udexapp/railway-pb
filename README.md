@@ -1,4 +1,5 @@
 # UDEX Pocketbase Backend Temaplate
+https://udex.app
 
 ## Instructions
 1. Create a new Repository based on this **pocketbase-template**
