@@ -8,8 +8,8 @@
 5. Connect the **prod** branch to the **prod** hosting environment (for automatic deployment when changes are made).
 
 ## Important:
-1. On top of the **dev** branch, create additional branches (e.g. **dev-name1**) in which you do ongoing development (**Locally** or in a **CodeSandbox** or **StackBlitz**, etc. environment), then upload changes to the **dev** branch
-2. After testing the **dev** branch, you can upload changes to the **prod** branch
+1. On top of the **dev** branch, create additional branches (e.g. **dev-name1**) in which you do ongoing development (**Locally** or in a **CodeSandbox** or **StackBlitz**, etc. environment), then merge changes to the **dev** branch
+2. After testing the **dev** branch, you can merge changes to the **prod** branch
 
 ## P.S.
 For hosting you can use **railway.app**, **fly.io**, etc.
